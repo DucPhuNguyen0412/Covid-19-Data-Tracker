@@ -1,1 +1,2 @@
-# Covid-19-Data-Tracker
+# Project5 CovidTracking
+
